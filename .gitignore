@@ -1,0 +1,17 @@
+env_project
+.env
+__pycache__
+glove.twitter.27B.200d.pkl
+data.pickle
+sentiment_analysis_model.h5
+sentiment_analysis.h5
+sentiment_analysis1.h5
+data1.pickle
+tokenizer.pickle
+.ipynb_checkpoints
+db_data
+pgadmin-data
+output
+glove.6B.200d.txt
+log_history.pickle
+comment_analysis.h5
